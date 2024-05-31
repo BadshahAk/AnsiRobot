@@ -1,2 +1,2 @@
-# AnsiRobot
-New management bot for telegram groups
+###Bot work in progress
+wait for new update
